@@ -1,13 +1,9 @@
-![logo.png](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/906db02b1dbc49669c38f870b6df2e96~tplv-k3u1fbpfcp-watermark.image?)
+# 🎥 Embsys Intelligence
+## USB Camera Engine&ensp;[![](https://jitpack.io/v/jiangdongguo/AndroidUSBCamera.svg)](https://jitpack.io/#jiangdongguo/AndroidUSBCamera) [![API](https://img.shields.io/badge/API-19%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=19)
 
+&emsp;Flexible and useful UVC camera engine on Android platform, you can use it to simply  open your uvc camera (supporting multi-road cameras) without  any system permissions . The only thing you should do is that confirming your Android device must support OTG function. So, welcom to use **Embsys Intelligence Camera Engine** and welcom to **star** & **fork** & **issues**!
 
-# AUSBC&ensp;[![](https://jitpack.io/v/jiangdongguo/AndroidUSBCamera.svg)](https://jitpack.io/#jiangdongguo/AndroidUSBCamera) [![API](https://img.shields.io/badge/API-19%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=19)
-
-&emsp;Flexible and useful UVC camera engine on Android platform, you can use it to simply  open your uvc camera (supporting multi-road cameras) without  any system permissions . The only thing you should do is that confirming your Android device must support OTG function. So, welcom to use **AUSBC3.0** and welcom to **star** & **fork** & **issues**!
-
-![multi-road camera](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/75a8f700d97c4de4979c9d0927764af9~tplv-k3u1fbpfcp-watermark.image?)
-
-&emsp;[@ Example showing](https://live.csdn.net/v/226993)
+&emsp;[@ Demo Video](https://embsys.com/demos)
 
 
 
@@ -29,7 +25,7 @@ Feature
 Usages
 -------
 
-&emsp;`AUSBC 3.0`  was refactored by kotlin and It is simpler to use and more feature-rich. So, I highly recommend you to use the current version and let's build it together.
+&emsp;`Embsys Intelligence Camera Engine`  was refactored by kotlin and It is simpler to use and more feature-rich. So, I highly recommend you to use the current version and let's build it together.
 
 - **Get AUSBC**
 
@@ -294,42 +290,42 @@ dependencies {
 
 
 
-[@ 中文文档](https://juejin.cn/post/7115229806844706847/)
+[@ Documentation](https://embsys.com/docs)
 
 
 
 Demo
 -------
 
-![](https://www.pgyer.com/app/qrcode/fVo5)
+&emsp;**Download Embsys Intelligence Camera App**
 
-&emsp;[AUSBC.apk](https://github.com/jiangdongguo/AndroidUSBCamera/blob/master/app/release/app-release.apk)
+&emsp;[Latest Release](https://github.com/pravinkannan18/USB-Camera/releases)
 
 
 Version
 -------
 
-[Update details](https://github.com/jiangdongguo/AndroidUSBCamera/blob/master/VERSION.md)
+[Update details](https://github.com/pravinkannan18/USB-Camera/blob/main/VERSION.md)
 
 Q & A
 -------
 
-[FAQ](https://github.com/jiangdongguo/AndroidUSBCamera/blob/master/FAQ.md)
+[FAQ](https://github.com/pravinkannan18/USB-Camera/blob/main/FAQ.md)
 
 
 Homepage & Help
 -------
 
-[1. JUEJIN](https://juejin.cn/user/1311062343296222)
+[1. Embsys Intelligence Website](https://embsys.com)
 
-[2. CSDN（Update stopped）](https://blog.csdn.net/andrexpert)
+[2. GitHub Repository](https://github.com/pravinkannan18/USB-Camera)
 
 
 
 &emsp;If you have any question or fun ideas, please issues to me.  
-&emsp;Of course, you can also send me a **微信**   "`laojiang299`"   or a **EMAIL**  "`765067602@qq.com`".   
+&emsp;Of course, you can also send me an **EMAIL**  "`support@embsys.com`" or visit our **website** "`https://embsys.com`".   
 
-&emsp;So, do not forget to send logs from location **Android/data/com.jiangdg.ausbc/files** and collect logcat information by executing command `adb shell logcat -v threadtime > usbcamera.log`
+&emsp;So, do not forget to send logs from location **Android/data/com.embsys.intelligence/files** and collect logcat information by executing command `adb shell logcat -v threadtime > usbcamera.log`
 
 
 
@@ -344,7 +340,7 @@ License
 -------
 
 ```c
-Copyright 2017-2023 Jiangdongguo
+Copyright 2023-2025 Embsys Intelligence
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
